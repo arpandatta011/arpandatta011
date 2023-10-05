@@ -6,12 +6,18 @@
 
 <h1 align="center">Hi there 👋 I'm Arpan Datta</h1>
 
-###
-
+## Connect with me  
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<a href="https://github.com/arpandatta011" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://linkedin.com/in/arpandatta011" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/arpandatta011" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 ###
 
@@ -27,7 +33,7 @@
 
 ###
 
-<h5 align="left">Here's a list of my skills and technologies:<br><br>Frontend Development: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS<br>Backend Development: SQL<br>Programming Languages: C++, Python<br>Machine Learning and Deep Learning: TensorFlow, OpenCV<br>AI and Data Science: Machine learning, deep learning, data analysis</h5>
+<h4 align="left">Here's a list of my skills and technologies:<br><br>Frontend Development: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS<br>Backend Development: SQL<br>Programming Languages: C++, Python<br>Machine Learning and Deep Learning: TensorFlow, OpenCV<br>AI and Data Science: Machine learning, deep learning, data analysis</h4>
 
 ###
 
