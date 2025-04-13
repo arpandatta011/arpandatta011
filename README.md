@@ -60,7 +60,5 @@ I’m driven by a desire to continuously learn 📚, experiment 🧪, and push t
 
 ## 📊 My Stats
 
-<div align="center" style="display: flex; justify-content: space-evenly; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpandatta011&show_icons=true&count_private=true&theme=radical&hide_title=true" alt="Arpan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandatta011&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Arpan's Most Used Languages" width="28%" />
-</div>
+| <a href="https://github.com/arpandatta011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arpandatta011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arpan's github stats" /></a> | <a href="https://github.com/arpandatta011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpandatta011&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
