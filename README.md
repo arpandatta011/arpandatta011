@@ -2,23 +2,21 @@
   <img height="250" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 </div>
 
-<h1 align="center">Hi there 👋 I'm Arpan Datta</h1>
+<h1 align="center" style="text-decoration: none;">Hi there 👋 I'm Arpan Datta</h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
 
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/arpandatta011" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" />
-  </a>
-</p>
+<div align="center">
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/arpandatta011" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+</div> 
 
 ## 👩‍💻 About Me
 
@@ -39,27 +37,30 @@ I’m driven by a desire to continuously learn 📚, experiment 🧪, and push t
 
 ## 🛠️ Languages & Tools
 
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React Js, Node JS
+- **Backend:** SQL
+- **Languages:** C++, Python
+- **AI/ML:** TensorFlow, OpenCV
+- **Data Science:** Machine Learning, Deep Learning, Data Analysis
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cpp,python,opencv,tensorflow,sql" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 </p>
-
-
----
 
 ## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<div align="center" style="display: flex; justify-content: space-evenly; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpandatta011&show_icons=true&count_private=true&theme=radical&hide_title=true" alt="Arpan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandatta011&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Arpan's Most Used Languages" width="28%" />
+</div>
