@@ -2,7 +2,9 @@
   <img height="250" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 </div>
 
-<h1 align="center" style="text-decoration: none;">Hi there 👋 I'm Arpan Datta</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Arpan+Datta&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&weight=700&color=FF69B4" alt="Typing animation for Arpan Datta">
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
 
