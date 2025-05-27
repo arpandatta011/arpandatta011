@@ -3,20 +3,23 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Arpan+Datta&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&weight=700&color=FF69B4" alt="Typing animation for Arpan Datta">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F72CCA&width=435&lines=Hi+there%F0%9F%91%8B+I'm+Arpan+Datta" alt="Typing SVG" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
 
 <div align="center">
-<a href="https://github.com/arpandatta011" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.linkedin.com/in/arpandatta011/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/arpandatta011" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  <a href="https://github.com/arpandatta011" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.linkedin.com/in/arpandatta011/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/arpandatta011" target="_blank">
+  <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://arpandattaportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
 </a>
 </div> 
 
