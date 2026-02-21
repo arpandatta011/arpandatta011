@@ -62,8 +62,3 @@ I’m driven by a desire to continuously learn 📚, experiment 🧪, and push t
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 </p>
-
-## 📊 My Stats
-
-| <a href="https://github.com/arpandatta011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arpandatta011&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arpan's github stats" /></a> | <a href="https://github.com/arpandatta011/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpandatta011&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
